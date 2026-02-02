@@ -27,3 +27,5 @@ Question Types:
 Key insight: Security Operations is the biggest domain (28%). Spend extra time here.
 
 
+Link to Cheat Sheet
+https://www.stationx.net/comptia-security-cheat-sheet/
